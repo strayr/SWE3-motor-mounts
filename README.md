@@ -8,3 +8,5 @@ This should fit completely with the stock enclosure cutouts.
 ![Z-side motor mount](images/cad_screen.png)
 
 Inspiration from [Yenda's more robust belt paths](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yenda/vsw_more_robust_belt_paths) mod.
+
+Find more [switchwire conversion mods](https://github.com/SW-Conversion/mod-regisistry)
